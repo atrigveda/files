@@ -1,9 +1,9 @@
 <H1 align="center">Welcome</H1>
 
-<marquee direction="right" color="red">Welcome to Home Server</marquee><hr>
+<marquee direction="right" color="red">Welcome To Home Server</marquee><hr>
 <br>
-<h4><sup>*</sup>  To Upload Multiple Files You Have to compress them (i.e. tar, zip, tar.gz etc.)</h4>
-<h4><sup>*</sup>  Max upload size is 200Mb</h4>
+<h4><sup>*</sup>  To Upload Multiple Files You Have To Compress Them (i.e. tar, zip, tar.gz etc.)</h4>
+<h4><sup>*</sup>  Max Upload Size is ""MB</h4>
 
 <br>
 <br>
