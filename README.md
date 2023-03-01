@@ -6,7 +6,9 @@ or you can install it manually by moving the files folder contents to your serve
 
 you can check it by running your server and typing in the  browser search bar "localhost/files" 
 
-# To remove all the changes run ./uninstall.sh
+# To remove changes run ./uninstall.sh
+Or you can the delete the directory files from your server .
+:)
 
 # How to increase the upload size ?
 
