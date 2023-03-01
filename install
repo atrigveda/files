@@ -2,15 +2,17 @@
 case "$1" in
   arch)
     $0 debian
+    sudo rm -r .git ;
     sudo cp ../files -r /srv/http/ ;
     cd /srv/http/files/ ;
-    sudo rm -r .git install uninstall README.md LICENSE ;
+    sudo rm -r install uninstall README.md LICENSE ;
     echo "Success !";
     ;;
   debian)
+    sudo rm -r .git ;
     sudo cp ../files -r /var/www/html/ ;
     cd /var/www/html/files/ ;
-    sudo rm -r .git install uninstall README.md LICENSE ;
+    sudo rm -r install uninstall README.md LICENSE ;
     echo "Success !";
     ;;
   *)
