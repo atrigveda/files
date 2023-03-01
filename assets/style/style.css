@@ -1,0 +1,41 @@
+.chosebtn{
+    background-color: #808080;
+    border: none;
+    color: white;
+    width: 220px;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+   
+}
+
+.uploadbtn{
+    background-color: #12d3e0;
+    border: none;
+    color: white;
+    width: 220px;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+
+
+
+
+
+}
+
+a:link, a:visited {
+    background-color: #000000;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+  
