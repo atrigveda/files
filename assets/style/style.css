@@ -1,0 +1,54 @@
+/*.chosebtn{
+    background-color: #808080;
+    border: none;
+    color: white;
+    width: 220px;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+   
+}
+
+
+.chosebtn:hover, .chosebtn:active {
+  background-color: rgb(105, 175, 187);
+}
+
+
+.uploadbtn{
+    background-color: #0daf87;
+    border: none;
+    color: white;
+    width: 220px;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+
+
+
+
+
+}
+*/
+
+a:link, a:visited {
+    background-color: #000000;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+a:hover, a:active {
+    background-color: red;
+}
+
+.delete:after{
+    content:'';
+}
+.delete:hover:after{
+    content:'You Sure ?';
+}
